@@ -1,6 +1,6 @@
 name: On Points
 favicon: null
-layout_spectrum: 0.40938650141470134
+layout_spectrum: 1
 typography_spectrum: 0.3222633816767484
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.28673077281564474
-  lightness: 0.7928003468550742
-  saturation: 0.004057339625433087
-  rhythmicContrast: 0.12384866387583315
+  lightness: 0.25
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
